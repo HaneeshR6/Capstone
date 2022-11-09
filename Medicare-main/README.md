@@ -5,9 +5,9 @@ Simplilearn final pproject Medicare
 Capstone Project Medicare
 
 Developer Details:
-Name: Manvendra Singh
-Email: manvendra1097@gmail.com
-Date created: 08-09-2022
+Name: Ramineni Haneesh
+Email: haneeshramineni@gmail.com
+Date created: 01-11-2022
 Program Name: Medicare
 
 
